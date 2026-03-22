@@ -2,6 +2,7 @@
 Project
 
 **Aim**
+
 Data analysis project using SQL and Python to extract business insights.
 
 **Tools used**
